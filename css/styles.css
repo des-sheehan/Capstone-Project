@@ -16,3 +16,7 @@ body {
     height: 250px;
     object-fit: cover;
 } 
+
+.icons img {
+    fill: white
+}
