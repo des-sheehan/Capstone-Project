@@ -10,9 +10,10 @@ body {
 }
 
 .portfolio img {
-    height: 250px;
-    object-fit: cover;
+    height: 100px;
+    width: auto;
 } 
+
 .portfolio img:hover {
     cursor: pointer;
 }
